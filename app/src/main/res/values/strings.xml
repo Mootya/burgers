@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Tretyakov BK</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="зарегистрироваться">Зарегистрироваться</string>
+    <string name="регистрация">Регистрация</string>
+    <string name="n">Дарим улыбку на весь \n день!</string>
+    <string name="burger_king">BURGER KING</string>
+    <string name="заказать">Заказать</string>
+    <string name="burgergov">Бургеры из говядины</string>
+    <string name="burgerkur">Бургеры из курицы</string>
+    <string name="todo">TODO</string>
+    <string name="obsluga">Хорошее обслуживание</string>
+    <string name="da">Самое лучшее обслуживание \n в этой стране!</string>
+    <string name="go">Начать</string>
+    <string name="начать">Начать</string>
+
+</resources>
